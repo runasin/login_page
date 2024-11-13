@@ -1,0 +1,17 @@
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\bin\Debug\net8.0-windows\Login_Paneli.exe
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\bin\Debug\net8.0-windows\Login_Paneli.deps.json
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\bin\Debug\net8.0-windows\Login_Paneli.runtimeconfig.json
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\bin\Debug\net8.0-windows\Login_Paneli.dll
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\bin\Debug\net8.0-windows\Login_Paneli.pdb
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.Form1.resources
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.Properties.Resources.resources
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.csproj.GenerateResource.cache
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.AssemblyInfoInputs.cache
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.AssemblyInfo.cs
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.csproj.CoreCompileInputs.cache
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.dll
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\refint\Login_Paneli.dll
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.pdb
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\Login_Paneli.genruntimeconfig.cache
+C:\Users\nacik\OneDrive\Masaüstü\Login_Paneli\Login_Paneli\obj\Debug\net8.0-windows\ref\Login_Paneli.dll
